@@ -8,7 +8,7 @@ public class ConexaoDB {
     // Definindo parâmetros para a conexão
     private static final String URL = "jdbc:mysql://localhost:3306/aula_java_db";
     private static final String USUARIO = "root";
-    private static final String SENHA = ""; // Coloque a senha do seu MySQL, se houver
+    private static final String SENHA = "UPXTaynara123+";
 
     // Método para obter conexão com o banco
     public static Connection conectar() {
