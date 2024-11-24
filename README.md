@@ -4,7 +4,7 @@ Este projeto em Java utiliza o JDBC para realizar operações de conexão e mani
 
 ![Exemplo de Console](console_db.png)
 
-
+![Banco de dados](banco_de_dados.png)
 
 
 ---
