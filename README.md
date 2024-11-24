@@ -2,6 +2,8 @@
 
 Este projeto em Java utiliza o JDBC para realizar operações de conexão e manipulação de dados em um banco de dados MySQL. O objetivo é demonstrar a criação e execução de operações básicas como inserção, leitura, atualização e exclusão de dados, utilizando o WAMP como servidor local de banco de dados.
 
+![Exemplo de Console](console_db.png)
+
 
 
 
